@@ -35,6 +35,7 @@ Raro: 150/150/150
 
 
 🎯 Habilidades
+Cada sapo pode ter até 2 habilidades
 Sapos mais raros têm maior chance de ter habilidades e mais poderosas:
 Grátis: 20% chance
 Comum: 40% chance
@@ -49,7 +50,7 @@ Grátis
 🍎
 80
 ⚔️
-10
+10(esse é o valor de cada um dos status individualmente de ataque, defesa e vida)
 Sapos básicos para iniciantes
 Comum
 ❤️
@@ -59,7 +60,7 @@ Comum
 🍎
 100
 ⚔️
-15
+15(esse é o valor de cada um dos status individualmente de ataque, defesa e vida)
 Sapos equilibrados para jogadores casuais
 Incomum
 ❤️
@@ -69,7 +70,7 @@ Incomum
 🍎
 120
 ⚔️
-20
+20(esse é o valor de cada um dos status individualmente de ataque, defesa e vida)
 Sapos com características especiais
 Raro
 ❤️
@@ -79,8 +80,10 @@ Raro
 🍎
 150
 ⚔️
-25
-Sapos excepcionais com poderes únicos
+25(esse é o valor de cada um dos status individualmente de ataque, defesa e vida)
+->Sapos excepcionais com poderes únicos
+
+
 Estratégias de Breeding
 💡 Dicas para Melhorar Raridade
 • Cruze sapos de raridades diferentes para maior variação
