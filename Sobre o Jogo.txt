@@ -20,8 +20,8 @@ Reproduza seus sapos para criar descendentes únicos:
 ⚔️ Sistema de Batalha
 Cada sapo possui status e habilidades para batalha:
 • Status de Batalha: Ataque, Defesa, Velocidade(soma maxima de 25 para os 3, organizar as quantias com as raridades.)
-• Status de Sobrevivencia: Vida, Energia, Fome(perde toda sua vida pode sumir para sempre da existencia.)
-• Habilidades: Ataque, Defesa, Cura, Buff(cada sapo pode ter até 2 habilidades)
+• Status de Sobrevivencia: Vida, Energia, Fome(Ao perder toda sua vida pode sumir para sempre da existencia.)
+• Habilidades: Ataque, Defesa, Cura, Buff.(cada sapo pode ter até 2 habilidades)
 • Cooldown: Tempo de recarga entre usos
 • Custo: Energia consumida por uso
 
