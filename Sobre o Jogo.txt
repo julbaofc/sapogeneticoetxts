@@ -1,0 +1,34 @@
+Sobre o Jogo
+🧬 Sistema de Genética
+Cada sapo possui genética única que determina suas características:
+
+• Cores: Corpo, contorno, barriga, pernas, olhos, bochechas, cabeça, ombros, boca, nariz
+• Padrões: Cabeça, barriga, bochechas, boca
+(os padrão são formas no qual se pode dar como pintas, manchas, circulos, nuvens ou por exemplo um coração na barriga ou varios pequenos, uma bochecha com formato estrela, entre outros como listras e etc.)
+• Raridade: Grátis, Comum, Incomum, Raro
+
+
+💕 Sistema de Breeding
+Reproduza seus sapos para criar descendentes únicos:
+
+• Apenas sapos de gêneros diferentes podem reproduzir
+• A genética é misturada com chance de mutação
+• Cada reprodução consome 30 de energia dos pais
+• Filhotes podem ter raridade maior que os pais
+
+
+⚔️ Sistema de Batalha
+Cada sapo possui status e habilidades para batalha:
+• Status de Batalha: Ataque, Defesa, Velocidade(soma maxima de 25 para os 3, organizar as quantias com as raridades.)
+• Status de Sobrevivencia: Vida, Energia, Fome(perde toda sua vida pode sumir para sempre da existencia.)
+• Habilidades: Ataque, Defesa, Cura, Buff(cada sapo pode ter até 2 habilidades)
+• Cooldown: Tempo de recarga entre usos
+• Custo: Energia consumida por uso
+
+
+🎨 Design Inclusivo
+
+Nosso sistema foi desenvolvido com acessibilidade em mente:
+• Botão para entrar em modo daltonico, 3 escolhas no botão com cores testadas para protanopia, deuteranopia e tritanopia.
+• Alternativas visuais além da cor (símbolos, texturas)
+Acessibilidade: Cores selecionadas usando diretrizes WCAG 2.1 e testadas com simuladores de daltonismo para garantir a melhor experiência possível.

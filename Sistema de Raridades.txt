@@ -1,0 +1,95 @@
+Sistema de Raridades
+Entendendo as Raridades
+Cada sapo possui uma raridade que determina seu potencial e características. Sapos mais raros têm status melhores, maiores chances de ter habilidades e maior potencial no breeding.
+
+🆓 Grátis - 
+Sapos iniciais para novos jogadores. Perfeitos para aprender o básico do jogo.
+-> Cada pessoa só recebe 1 quando cria a conta com a carteira cripto.
+(comparado ao outros: eles não são nft, não podem breedar, ganham só 1/3 do normal, mas podem ser mintados virando nft de raridade comum.)
+
+🟢 Comum
+O equilíbrio perfeito entre acessibilidade e potencial. Ideais para jogadores casuais.
+
+🔵 Incomum
+Sapos com características especiais e maior potencial de breeding.
+
+🟣 Raro
+Os sapos mais poderosos e cobiçados. Status máximos e habilidades excepcionais.
+
+Mecânicas de Raridade
+🎲 Breeding e Herança
+A raridade dos filhotes é determinada pela média dos pais, com chances de:
+
+• 0,1% de chance de melhorar a raridade
+• 50% de chance de piorar a raridade
+• 49,9% de chance de manter a raridade média
+⚡ Status Base
+
+Cada nível de raridade aumenta os status base do sapo:
+
+Valores para Status de Sobrevivencia:
+Grátis: 80/80/80
+Comum: 100/100/100
+Incomum: 120/120/120
+Raro: 150/150/150
+
+
+🎯 Habilidades
+Sapos mais raros têm maior chance de ter habilidades e mais poderosas:
+Grátis: 20% chance
+Comum: 40% chance
+Incomum: 60% chance
+Raro: 80% chance
+Comparação de Raridades
+Grátis
+❤️
+80
+⚡
+80
+🍎
+80
+⚔️
+10
+Sapos básicos para iniciantes
+Comum
+❤️
+100
+⚡
+100
+🍎
+100
+⚔️
+15
+Sapos equilibrados para jogadores casuais
+Incomum
+❤️
+120
+⚡
+120
+🍎
+120
+⚔️
+20
+Sapos com características especiais
+Raro
+❤️
+150
+⚡
+150
+🍎
+150
+⚔️
+25
+Sapos excepcionais com poderes únicos
+Estratégias de Breeding
+💡 Dicas para Melhorar Raridade
+• Cruze sapos de raridades diferentes para maior variação
+• Sapos Incomuns + Raros têm maior chance de filhotes Raros
+• A mutação genética pode criar características únicas
+• Paciência é chave - breeding requer energia e tempo
+🎯 Otimização de Status
+• Mantenha a energia acima de 50 para breeding
+• Use habilidades de buff antes de reproduzir
+• Sapos com status altos produzem filhotes mais fortes
+• O descanso regular melhora o potencial genético
+Nota: A raridade não determina completamente o valor de um sapo. Combinações genéticas únicas podem criar sapos muito especiais mesmo em raridades menores.
